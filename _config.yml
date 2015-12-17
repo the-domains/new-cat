@@ -1,0 +1,28 @@
+name: New Cat
+favicon: null
+layout_spectrum: 0.947853515855968
+typography_spectrum: 0.23546762950718403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7951581943780184
+  lightness: 0.8554233089089394
+  saturation: 0.3657010206952691
+  rhythmicContrast: 0.5309659130871296
+purpose: []
